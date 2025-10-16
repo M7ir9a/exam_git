@@ -1,1 +1,2 @@
-print("Exam in git")
+from modules.utils import hello
+print(hello("Git user"))
